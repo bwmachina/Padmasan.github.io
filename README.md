@@ -1,7 +1,7 @@
-# Padmasan.github.io
+# bwmachina.github.io
 
 Hello World
 
 
 Website Links:
-First test-site: Padmasan.github.io/test-site/
+First test-site: bwmachina.github.io/test-site/
